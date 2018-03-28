@@ -14,3 +14,8 @@ function sayHiToGrandma(string) {
   string==="I love you, Grandma."
   return "I love you, too."
 }
+function sayHiToGrandma(string) {
+  var uppercase==="YES INDEED!"
+  string===uppercase
+  return "I love you, too."
+}
