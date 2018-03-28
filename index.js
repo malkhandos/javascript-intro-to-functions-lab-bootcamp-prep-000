@@ -17,5 +17,5 @@ function sayHiToGrandma(string) {
 function sayHiToGrandma(string) {
   var uppercase==="YES INDEED!"
   string===uppercase
-  return "I love you, too."
+  console.log('YES INDEED!')
 }
