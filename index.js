@@ -29,6 +29,6 @@ function sayHiToGrandma(string) {
   return "I love you, too."
 }
 function sayHiToGrandma(string) {
-  string===uppercase
+  string===lowercase
   return "YES INDEED!"
 }
